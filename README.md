@@ -10,8 +10,11 @@
  ~~Riscado~~ (~~)
 
 #Titulo
+
 ##Titulo nível 2
+
 ###Titulo nível 3
+
 
 --- ou *** (linha)
 
@@ -60,3 +63,9 @@ Num | Nome |  Nota
 1 | Eduardo | 10 
 2 | Jorge | 9,5
 3 | Anna | 10
+
+Terminou a Tabela.
+
+Comando:
+
+'document.getElementByid()'
