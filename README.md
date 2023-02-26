@@ -68,4 +68,35 @@ Terminou a Tabela.
 
 Comando:
 
-´document.getElementByid()´
+ ` document.getElementByid() `
+ 
+ Para codigo completo:
+ 
+ ```
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home - primeiro site em repositório</title>
+</head>
+<body>
+    <h1>Olá, Mundo!</h1>
+    <hr>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet, hic ex? Voluptatibus vel sunt illo architecto laudantium et at, consequuntur expedita minus repellendus quo doloribus commodi 
+    saepe ducimus pariatur itaque.</p>
+    <hr>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint architecto cupiditate, earum eos porro necessitatibus? Qui illo laboriosam, cupiditate tempore nostrum nam sunt natus, recusandae quidem enim dicta, blanditiis quo!</p>
+    <hr>
+</body>
+</html>
+ 
+ ```
+ 
+ 
+ Emojis= usar dois ponto 😄
+ 
+ @ para marcar
+ 
+ > para citar/responder
