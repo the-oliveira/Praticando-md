@@ -41,11 +41,22 @@ Lista de Tarefas:
 - [ ] Praticar CSS3
 - [ ] Praticar Javascript
 
-Testando colocar imagens:
+colocar imagens:
+
+![Descrição da imagem](caminho da imagem)
 
 ![OnePiece](https://user-images.githubusercontent.com/27895471/221371871-403bdaf8-cf1e-441d-9181-d0a47304b1bc.jpg)
 
 Link:
 
+[Texto do link](link)
+
 [Para colocar um link](https://youtube.com)
 
+Tabela:
+
+Num | Nome |  Nota
+--- | --- | ---
+1 | Eduardo | 10 
+2 | Jorge | 9,5
+3 | Anna | 10
